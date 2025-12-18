@@ -1,4 +1,4 @@
-# Asistente Clínico RAG con IA Generativa 🩺
+# Asistente clínico RAG con IA Generativa 🩺
 
 Este proyecto es un asistente inteligente diseñado para responder preguntas sobre Guías de Práctica Clínica (Hipertensión y Diabetes Mellitus Tipo 2) utilizando RAG (Retrieval-Augmented Generation).
 
