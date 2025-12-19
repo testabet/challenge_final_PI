@@ -8,6 +8,17 @@ Este proyecto es un asistente inteligente diseñado para responder preguntas sob
 - **Despliegue:** Dockerizado con Docker Compose.
 - **Innovación:** Orquestador de intenciones, Filtros por metadatos y Citas de fuentes.
 
+## Estructura del Proyecto
+main.py: Código fuente del Backend.
+
+frontend.py: Código de la interfaz Streamlit.
+
+ingest.py: Script para procesar PDFs y crear la base vectorial.
+
+schemas.py: definición de clases para entradas y salidas
+
+docker-compose.yml: Orquestación de servicios.
+
 ## Requisitos Previos
 1. Tener Docker y Docker Desktop instalados.
 2. Tener una API Key de Google Gemini.
@@ -37,7 +48,7 @@ Levanta el sistema con el siguiente comando:
 
 docker-compose up --build
 
-### 4. Acceder
+### 5. Acceder
 Chatbot: http://localhost:8501 
 
 API Docs: http://localhost:8000/docs
