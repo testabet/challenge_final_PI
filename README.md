@@ -6,7 +6,7 @@ Este proyecto es un asistente inteligente diseñado para responder preguntas sob
 - **Backend:** FastAPI con LangChain y Google Gemini.
 - **Frontend:** Streamlit con interfaz de chat y gestión de historial.
 - **Despliegue:** Dockerizado con Docker Compose.
-- **Innovación:** Orquestador de intenciones, Filtros por metadatos y Citas de fuentes.
+- **Innovación:** Orquestador de intenciones, filtros por metadatos y citas de fuentes.
 
 ## Estructura del Proyecto
 main.py: Código fuente del Backend.
@@ -26,7 +26,7 @@ docker-compose.yml: Orquestación de servicios.
 ## Instalación y Uso
 
 ### 1. Clonar el repositorio
-git clone https://github.com/testabet/challenge_final_PI.git
+git clone https://github.com/testabet/asistente-de-practicas-clinicas.git
 
 cd challenge_final_PI
 
